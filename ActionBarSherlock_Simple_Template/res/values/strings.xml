@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ABS Template</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="github_activity">Tab 2</string>
+	<string name="blog_post">Tab 1</string>
+	<string name="twitter_feed">Tab 3</string>
+</resources>
